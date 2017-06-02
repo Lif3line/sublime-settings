@@ -1,0 +1,16 @@
+{
+	// Show brackets in the minimap.
+	"show_in_minimap": true,
+	"show_unmatched": true,
+	"high_visibility_enabled_by_default": false,
+	"high_visibility_style": "outline",
+
+
+	"bracket_styles": {
+		"default": {
+			"icon": "dot",
+			"color": "brackethighlighter.curly",
+			"style": "underline"
+		},
+	}
+}

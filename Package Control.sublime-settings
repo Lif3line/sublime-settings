@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"AutoDocstring",
+		"AutoHotkey",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"BracketHighlighter",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"GhostText",
+		"GitGutter",
+		"Inc-Dec-Value",
+		"LiveReload",
+		"Markdown Preview",
+		"Package Control",
+		"Package Syncing",
+		"PowerShell",
+		"Rainmeter",
+		"SublimeCodeIntel",
+		"WordHighlight"
+	]
+}

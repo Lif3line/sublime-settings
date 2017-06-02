@@ -1,0 +1,70 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": false,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".bundle",
+		".sass-cache",
+		".ipynb_checkpoints"
+	],
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Autoprefixer",
+		"ColorPicker",
+		"Rainmeter",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": true,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		79,
+		99,
+		119
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"smart_indent": true,
+	"tab_size": 4,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"useTabStops": true,
+	"word_wrap": true
+}
